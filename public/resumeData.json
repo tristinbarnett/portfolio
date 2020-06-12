@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name":"Tristin Barnett",
+    "occupation":"Full Stack Web Developer",
+    "description":"Recently completed the Full Stack Web Development course with the University of Oregon. I enjoy learning new things and constantly am pushing myself to continue to grow both personally and professionally",
+    "image":"Tristin.jpeg",
+    "bio":"Full stack web developer with a background in management, leading teams to share a “one team, one goal” mentality while maintaining a keen attention to detail and accuracy. Recently earned a certificate in full stack development from the University of Oregon, with newly developed skills in JavaScript, CSS, React.js, and responsive web design. Recognized for maintaining a reputation of being calm under pressure and a fast learner. Excited to learn and further develop skills in the future as part of a fast-paced, quality-driven team.",
+    "contactmessage":"Would you like to work with me? I would like to work with you! Please reach out to me via email!",
+    "email": "TristinBarnett@gmail.com",
+    "address":{
+      "city":"Portland",
+      "state":"OR",
+      "zip": "97035"
+    },
+    "website": "http://www.timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tristinbarnett/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/tristinbarnett",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here is a list of some of the skills I've learned and developed over the past year: JavaScript, css, jQuery, Node.js, MySQL, MongoDB, AWS, Sequelize.js, REST API, HTML5, React.js, Bootstrap, NoSQL",
+    "education":[
+      {
+        "school":"University of Oregon",
+        "degree":"Certificate in Full stack development",
+        "graduated":"June 2020",
+        "description":"This was an extremely fast paced learning environment where we covered front and back end development and accomplished group projects throughout the course."
+      },
+      {
+        "school":"Moorpark CC",
+        "degree":"General Studies",
+        "description":"I spent three years studying general academics to apply towards an associates."
+      }
+    ],
+    "work":[
+      {
+        "company":"Columbia Sportswear Company",
+        "title":"Receptionist",
+        "years":"Feburary 2020 - Present",
+        "description":"Skills include a positive disposition, friendly communication style, and a service oriented mindset and approach."
+      },
+      {
+        "company":"Susiecakes",
+        "title":"Bakery Manager",
+        "years":"August 2016 - May 2019",
+        "description":"Upheld financial responsibilities and maintained positive fiscal performance year-over-year, optimized inventory planning and replenishment levels to satisify day-to-day operations, reconciled past business performance and established improvement plans"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Node.js",
+        "level":"60%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"55%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"60%"
+      },
+      {
+        "name":"AWS",
+        "level":"30%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Moodle",
+        "category":"An application for tracking moods",
+        "image":"moodle.png",
+        "url":"https://the-moodle-app.herokuapp.com/"
+      },
+      {
+        "title":"OtakuZone",
+        "category":"Search recommendations for different anime titles and their corresponding manga",
+        "image":"otaku.png",
+        "url":"https://tristinbarnett.github.io/Project1/"
+      },
+      {
+        "title":"Employee Directory",
+        "category":"Filter through employees by name, organize by last name",
+        "image":"directory.png",
+        "url":"https://tristinbarnett.github.io/week19employeeTracker/"
+      },
+      {
+        "title":"Eat-da-burger!",
+        "category":"Track the burgers you would like to eat and as you eat them!",
+        "image":"burger.png",
+        "url":"https://protected-shore-07093.herokuapp.com/"
+      },
+      {
+        "title":"Weather App",
+        "category":"Search for 5 day forecast by city",
+        "image":"weather.png",
+        "url":"https://tristinbarnett.github.io/Weather-Dashboard/"
+      }
+    ]
+  }
+}
