@@ -89,22 +89,28 @@
   "portfolio":{
     "projects": [
       {
+        "title":"How's Your Spirit?",
+        "category":"Track energy levels and moods and how daily activities effect them",
+        "image":"HowsYourSpirit.png",
+        "url": "https://github.com/tristinbarnett/hows-your-spirit"
+      },
+      {
         "title":"Moodle",
         "category":"An application for tracking moods",
         "image":"moodle.png",
-        "url":"https://the-moodle-app.herokuapp.com/"
+        "url":"https://github.com/tristinbarnett/Project-2"
       },
       {
         "title":"OtakuZone",
         "category":"Search recommendations for different anime titles and their corresponding manga",
         "image":"otaku.png",
-        "url":"https://tristinbarnett.github.io/Project1/"
+        "url":"https://github.com/tristinbarnett/Project1"
       },
       {
         "title":"Employee Directory",
         "category":"Filter through employees by name, organize by last name",
         "image":"directory.png",
-        "url":"https://tristinbarnett.github.io/week19employeeTracker/"
+        "url":"https://github.com/tristinbarnett/week19employeeTracker"
       },
       {
         "title":"Eat-da-burger!",
@@ -116,7 +122,7 @@
         "title":"Weather App",
         "category":"Search for 5 day forecast by city",
         "image":"weather.png",
-        "url":"https://tristinbarnett.github.io/Weather-Dashboard/"
+        "url":"https://github.com/tristinbarnett/Weather-Dashboard"
       }
     ]
   }
