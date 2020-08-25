@@ -27,7 +27,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here is a list of some of the skills I've learned and developed over the past year: JavaScript, css, jQuery, Node.js, MySQL, MongoDB, AWS, Sequelize.js, REST API, HTML5, React.js, Bootstrap, NoSQL",
+    "skillmessage":"Here is a list of some of the skills I've learned and developed over the past year: JavaScript, CSS, jQuery, Node.js, MySQL, MongoDB, AWS, Sequelize.js, REST API, HTML5, React.js, Bootstrap, NoSQL",
     "education":[
       {
         "school":"University of Oregon",
